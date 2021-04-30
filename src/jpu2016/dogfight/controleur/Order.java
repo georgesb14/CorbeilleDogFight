@@ -1,6 +1,6 @@
 package jpu2016.dogfight.controleur;
 
-public enum Order {
+public enum Order   {
 
 	UP,
 	RIGHT,
